@@ -62,3 +62,5 @@ if __name__== "__main__":
         shop.pet_factory = get_factory()
         shop.show_pet()
         print("=" * 20)
+
+#nice example
